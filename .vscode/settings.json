@@ -1,0 +1,7 @@
+{
+  "editor.autoClosingBrackets": "always",
+  "editor.autoClosingDelete": "always",
+  "editor.autoClosingQuotes": "always",
+  "editor.autoIndent": "keep",
+  "html-css-class-completion.enableEmmetSupport": true
+}
